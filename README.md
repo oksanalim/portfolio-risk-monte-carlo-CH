@@ -1,4 +1,4 @@
-# Portfolio Risk Analysis Monte Carlo Simulation (Swiss Market)
+# Portfolio Risk Analysis Monte Carlo Simulation (Swiss Market) - WIP
 
 ## Overview
 This project utilizes Monte Carlo simulations to perform portfolio risk analysis tailored specifically for the Swiss market. It evaluates potential portfolio performance and risk by simulating asset returns, calculating expected losses, Value at Risk (VaR), and Expected Shortfall (Conditional VaR).
